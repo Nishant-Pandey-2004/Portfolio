@@ -35,7 +35,7 @@ export default function Home() {
             Nishant
           </h1>
           <p className="font-light text-foreground text-lg">
-            Meet the wizard behind this portfolio
+            Meet the person behind this portfolio
           </p>
         </div>
       </div>

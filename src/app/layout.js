@@ -14,7 +14,7 @@ export const metadata = {
     template:
       "Next.js Portfolio Created with Three.js and Tailwind CSS ",
     default:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS by Nishant Pandey",
+      "Nishant Pandey",
   },
   description:
     "A unique creative portfolio designed by Nishant Pandey with cutting-edge technologies like Next.js, Tailwind CSS, Three.js, and Framer Motion. Experience the art of modern web development firsthand.",
