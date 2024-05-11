@@ -20,15 +20,14 @@ export default function Contact() {
       <article className="relative w-full flex flex-col items-center justify-center py-8 sm:py-0 space-y-8">
         <div className="flex flex-col items-center justify-center space-y-6 w-full sm:w-3/4">
           <h1 className="text-accent font-semibold text-center text-4xl capitalize">
-            summon the wizard
+            Mystical Message
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            Step into the circle of enchantment and weave your words into the
-            fabric of the cosmos. Whether you seek to conjure collaborations,
-            unlock mysteries, or simply share tales of adventure, your messages
-            are treasured scrolls within this realm. Use the form below to send
-            your missives through the ethereal network, and await the whisper of
-            magic in response.
+          Enter the mystical circle, where words become threads weaving through the 
+          tapestry of the universe. Share your desires for collaborations, unravel 
+          mysteries, or regale in tales of adventure. Use this conduit to send your 
+          messages across the ethereal network, and anticipate the enchanting echoes 
+          of magic in return.
           </p>
         </div>
         <Form />
