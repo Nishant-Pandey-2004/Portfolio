@@ -31,14 +31,6 @@ export default function Form() {
   const sendEmail = (params) => {
     const toastId = toast.loading("Sending your message, please wait...");
 
-    // toast.info(
-    //   "Form submissions are demo-only here. Please checkout the final code repo to enable it. If you want to connect you can reach out to me via codebucks27@gmail.com.",
-    //   {
-    //     id: toastId,
-    //   }
-    // );
-
-    // comment out the above toast.info and uncomment the below code to enable emailjs
 
     emailjs
       .send(
@@ -75,7 +67,7 @@ export default function Form() {
 
   const onSubmit = (data) => {
     const templateParams = {
-      to_name: "CodeBucks",
+      to_name: "Nishant",
       from_name: data.name,
       reply_to: data.email,
       message: data.message,
